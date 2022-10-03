@@ -1,0 +1,3 @@
+- https://www.typescriptlang.org/cheatsheets
+- https://devhints.io/typescript
+- https://react-typescript-cheatsheet.netlify.app/
