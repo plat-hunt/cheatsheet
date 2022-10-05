@@ -1,0 +1,2 @@
+- https://alhassy.github.io/HaskellCheatSheet/CheatSheet.pdf
+- https://hackage.haskell.org/package/CheatSheet-1.10/src/CheatSheet.pdf
