@@ -1,0 +1,2 @@
+- https://adoptingerlang.org/docs/cheat_sheets/
+- http://www.cheat-sheets.org/saved-copy/Erlang.CheatSheet(1.0).pdf
