@@ -1,0 +1,2 @@
+- https://cheats.rs/
+- https://quickref.me/rust
