@@ -1,3 +1,5 @@
 - https://dart.dev/codelabs/dart-cheatsheet
 - https://github.com/Temidtech/dart-cheat-sheet
 - https://quickref.me/dart
+- pdf version : https://koenig-media.raywenderlich.com/uploads/2019/08/RW-Dart-Cheatsheet-1.0.2.pdf
+- https://simplecheatsheet.com/tag/dart-cheat-sheet/
