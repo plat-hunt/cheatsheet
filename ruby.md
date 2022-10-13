@@ -1,0 +1,3 @@
+- https://github.com/ThibaultJanBeyer/cheatsheets/blob/master/Ruby-Cheatsheet.md
+- https://dev.to/ericchapman/my-beloved-ruby-cheat-sheet-208o
+- https://overapi.com/ruby
