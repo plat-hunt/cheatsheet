@@ -1,0 +1,4 @@
+- https://quickref.me/golang
+- https://devhints.io/go
+- https://golang.sk/images/blog/cheatsheets/go-cheat-sheet.pdf
+- https://hackr.io/blog/golang-cheat-sheet
