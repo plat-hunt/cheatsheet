@@ -1,0 +1,3 @@
+- https://devhints.io/bash
+- https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh
+- https://linuxconfig.org/bash-scripting-cheat-sheet
