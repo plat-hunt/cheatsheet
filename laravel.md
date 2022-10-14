@@ -1,0 +1,5 @@
+- [Complete Laravel Cheatsheet](https://hackr.io/blog/laravel-cheat-sheet)
+- [Laravel 9.x Cheatsheet](https://learninglaravel.net/cheatsheet/)
+- [Laravel Blade Cheatsheet .pdf](https://infopediya.com/wp-content/uploads/2022/06/Laravel-blade-template-cheat-sheet-infopediya-com.pdf)
+- [Laravel 9.x Artisan Cheatsheet](https://artisan.page/)
+- [Laravel Eloquent Cheatsheet](https://www.tutsmake.com/laravel-eloquent-cheat-sheet-eloquent-orm/)
